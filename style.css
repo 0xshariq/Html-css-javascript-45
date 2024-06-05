@@ -1,0 +1,24 @@
+*{
+  margin : 0px;
+  padding : 0px;
+}
+.links{
+  text-decoration : none;
+}
+.footer{
+  margin-bottom : 0px;
+  width : 100vw;
+  align-items: center;
+}
+.navbar{
+  display : flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.navbar:hover{
+  
+}
+.navbar:active{
+  
+}
