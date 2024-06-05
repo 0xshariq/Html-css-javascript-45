@@ -7,12 +7,15 @@
 .links{
   text-decoration : none;
 }
+/* footer */
 .footer{
   margin-bottom : 0px;
   width : 100vw;
-  align-items: center;
+  text-align: center;
 }
+/* navbar */
 .navbar{
+  width : 100vw;
   display : flex;
   flex-direction: row;
   justify-content: space-evenly;
