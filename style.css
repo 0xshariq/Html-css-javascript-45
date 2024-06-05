@@ -23,6 +23,11 @@
   background-color: #538392;
   color: white;
 }
+.navbar ul li a{
+  font-size: 10px;
+  color: #cfcfcf;
+  transition: all 2s ease-in-out;
+}
 .navbar:hover{
   background-color: #B3E2A7;
 }
